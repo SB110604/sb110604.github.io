@@ -1,0 +1,49 @@
+1:"$Sreact.fragment"
+2:"/_next/static/chunks/0umf92h1sb77c.js"
+3:I[39756,["$2"],"default"]
+4:I[37457,["$2"],"default"]
+5:"/_next/static/chunks/29017sj3i6d24.js"
+6:I[22016,["$5"],""]
+7:I[5014,["$5"],"default"]
+e:I[97367,["$2"],"OutletBoundary"]
+f:"$Sreact.suspense"
+12:"ViewportBoundary"
+13:I[97367,["$2"],"$12"]
+14:"MetadataBoundary"
+15:I[97367,["$2"],"$14"]
+:HL["/_next/static/chunks/1mz1c7ae8h3ws.css","style"]
+9:X
+c:X
+c:C
+d:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","main",null,{"id":"main","className":"shell grid min-h-[100svh] place-items-center py-24","children":["$","div",null,{"className":"max-w-xl text-center","children":[["$","p",null,{"className":"eyebrow","children":"Error 404"}],["$","h1",null,{"className":"display-2 mt-5","children":"This page isn’t part of the system."}],["$","p",null,{"className":"mt-5 text-lg text-muted","children":"The address may be mistyped, or the page may have moved."}],["$","div",null,{"className":"mt-9 flex flex-wrap justify-center gap-3","children":[["$","$L6",null,{"href":"/","className":"btn btn-primary","children":[["$","$L7",null,{"icon":"$0:t:t:d:r:props:children:1:props:children:props:children:1:props:notFound:0:props:children:props:children:3:props:children:0:props:children:0:props:icon","size":17,"aria-hidden":"true"}]," Back to the portfolio"]}],["$","$L6",null,{"href":"/#work","className":"btn btn-ghost","children":"See the work"}]]}]]}]}],[["$","script","script-0",{"src":"/_next/static/chunks/29017sj3i6d24.js","async":true}]],["$","$Le",null,{"children":["$","$f",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]]}],"p":"$@11","v":null,"s":"$9"}}]]
+a:[["children",{"s":"/_not-found","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}],"p":"$@b","v":"$c","s":"$9"},"c":"$Qd"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1mz1c7ae8h3ws.css","precedence":"next"}]],["$","html",null,{"lang":"en","className":"RNs2Mq_variable _0bjUvq_variable -5dQCq_variable","children":["$","body",null,{"children":[["$","a",null,{"href":"#main","className":"sr-only focus:not-sr-only focus:fixed focus:left-4 focus:top-4 focus:z-[60] focus:rounded-lg focus:bg-accent focus:px-4 focus:py-2 focus:text-bg","children":"Skip to content"}],["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}],"notFound":[["$","main",null,{"id":"main","className":"shell grid min-h-[100svh] place-items-center py-24","children":["$","div",null,{"className":"max-w-xl text-center","children":[["$","p",null,{"className":"eyebrow","children":"Error 404"}],["$","h1",null,{"className":"display-2 mt-5","children":"This page isn’t part of the system."}],["$","p",null,{"className":"mt-5 text-lg text-muted","children":"The address may be mistyped, or the page may have moved."}],["$","div",null,{"className":"mt-9 flex flex-wrap justify-center gap-3","children":[["$","$L6",null,{"href":"/","className":"btn btn-primary","children":[["$","$L7",null,{"icon":{"name":"arrow-left","size":24,"node":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]]},"size":17,"aria-hidden":"true"}]," Back to the portfolio"]}],["$","$L6",null,{"href":"/#work","className":"btn btn-ghost","children":"See the work"}]]}]]}]}],[]]}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Person\",\"name\":\"Sahil Arun Bodke\",\"alternateName\":\"Sahil Bodke\",\"jobTitle\":\"Python Backend and AI Engineer\",\"description\":\"Portfolio of Sahil Arun Bodke, a Python backend and AI engineer in Pune building REST APIs, Retrieval-Augmented Generation systems and LLM applications.\",\"email\":\"mailto:sahilbodke51@gmail.com\",\"url\":\"https://sb110604.github.io\",\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"Pune\",\"addressRegion\":\"Maharashtra\",\"addressCountry\":\"IN\"},\"alumniOf\":{\"@type\":\"CollegeOrUniversity\",\"name\":\"Savitribai Phule Pune University\"},\"sameAs\":[\"https://github.com/SB110604\",\"https://www.linkedin.com/in/sahil-bodke-engineer\"],\"knowsAbout\":[\"Python\",\"FastAPI\",\"REST APIs\",\"Retrieval-Augmented Generation\",\"Large language models\",\"Machine learning\",\"Application security\"]}"}}]]}]}]]}],"p":"$@8","v":null,"s":"$9"},"c":"$Qa"},"h":{"r":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L13",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#080a09"}],["$","meta","3",{"name":"color-scheme","content":"dark"}]]}],["$","$L15",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$f",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Sahil Arun Bodke — Python Backend and AI Engineer"}],["$","meta","1",{"name":"description","content":"Portfolio of Sahil Arun Bodke, a Python backend and AI engineer in Pune building REST APIs, Retrieval-Augmented Generation systems and LLM applications."}],["$","link","2",{"rel":"author","href":"https://www.linkedin.com/in/sahil-bodke-engineer"}],["$","meta","3",{"name":"author","content":"Sahil Arun Bodke"}],["$","meta","4",{"name":"keywords","content":"Sahil Bodke,Python backend engineer,AI engineer,Generative AI,RAG,FastAPI,LLM applications,Pune"}],["$","meta","5",{"name":"creator","content":"Sahil Arun Bodke"}],["$","meta","6",{"name":"robots","content":"index, follow"}],["$","link","7",{"rel":"canonical","href":"https://sb110604.github.io/"}],["$","meta","8",{"property":"og:title","content":"Sahil Arun Bodke — Python Backend and AI Engineer"}],["$","meta","9",{"property":"og:description","content":"Portfolio of Sahil Arun Bodke, a Python backend and AI engineer in Pune building REST APIs, Retrieval-Augmented Generation systems and LLM applications."}],["$","meta","10",{"property":"og:url","content":"https://sb110604.github.io/"}],"$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27"]}]}],null]}],"$L28"]}],"p":"$@29","v":null,"s":"$9"}},"a":"$@2a","u":"$@2b","b":"4Ns8ZAek49L4lIPGp-5w5"}
+2c:I[27201,["$2"],"IconMark"]
+10:null
+16:["$","meta","11",{"property":"og:site_name","content":"Sahil Bodke"}]
+17:["$","meta","12",{"property":"og:locale","content":"en_IN"}]
+18:["$","meta","13",{"property":"og:image","content":"https://sb110604.github.io/opengraph-image?929f82852dce82c0"}]
+19:["$","meta","14",{"property":"og:image:type","content":"image/png"}]
+1a:["$","meta","15",{"property":"og:image:width","content":"1200"}]
+1b:["$","meta","16",{"property":"og:image:height","content":"630"}]
+1c:["$","meta","17",{"property":"og:image:alt","content":"Sahil Arun Bodke — Python Backend and AI Engineer"}]
+1d:["$","meta","18",{"property":"og:type","content":"website"}]
+1e:["$","meta","19",{"name":"twitter:card","content":"summary_large_image"}]
+1f:["$","meta","20",{"name":"twitter:title","content":"Sahil Arun Bodke — Python Backend and AI Engineer"}]
+20:["$","meta","21",{"name":"twitter:description","content":"Portfolio of Sahil Arun Bodke, a Python backend and AI engineer in Pune building REST APIs, Retrieval-Augmented Generation systems and LLM applications."}]
+21:["$","meta","22",{"name":"twitter:image","content":"https://sb110604.github.io/opengraph-image?929f82852dce82c0"}]
+22:["$","meta","23",{"name":"twitter:image:alt","content":"Sahil Arun Bodke — Python Backend and AI Engineer"}]
+23:["$","meta","24",{"name":"twitter:image:type","content":"image/png"}]
+24:["$","meta","25",{"name":"twitter:image:width","content":"1200"}]
+25:["$","meta","26",{"name":"twitter:image:height","content":"630"}]
+26:["$","link","27",{"rel":"icon","href":"/icon.svg?icon.13ws6exduop89.svg","sizes":"any","type":"image/svg+xml"}]
+27:["$","$L2c","28",{}]
+28:["$","meta",null,{"name":"next-size-adjust","content":""}]
+9:300
+2b:true
+9:C
+2a:0
+b:"$undefined"
+8:"$undefined"
+29:"$undefined"
+11:"$undefined"
